@@ -3,7 +3,7 @@ The developers community is vast. Which leads to numerous frameworks that are av
 Some of the popular Frameworks are
 
 1. Express.js
-    - Fast, minimalist web framework
+    - Fast, unopinionated, minimalist web framework for Node.js
 2. Socket.io
     - Socket.IO enables real-time bidirectional event-based communication.
 3. Sails.js
@@ -19,4 +19,3 @@ Some of the popular Frameworks are
     - Fast & powerful microservices framework for NodeJS.
 5. koa.js
     - from Express team, a next generation web server framework
-    
