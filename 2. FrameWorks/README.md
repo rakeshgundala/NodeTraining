@@ -22,4 +22,4 @@ Some of the popular Frameworks are
 
 While each framework has its advantages, choosing the right framework for right solution is crucial.
 
-Rooster of frameworks http://nodeframework.com
+Roster of frameworks http://nodeframework.com
