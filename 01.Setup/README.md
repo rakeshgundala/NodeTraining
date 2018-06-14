@@ -36,6 +36,18 @@ Node.js - Environment Setup
               a.open command promt  AND type command  node -v 
                   outpt----  v8.11.1
 
+              b.to chek npm version npm -v 
+                   output --------5.6.0
+
+
+
+
+
+
+
+
+
+
 
           
 note:in above command node is not case sensitive but -v is case sensitive only small -v allowed
