@@ -3,12 +3,11 @@ module.exports = {
     lname: "Doe"
 };
 
-// var myuser = {
+// var user = {
 //     fname: "John",
 //     lname: "Doe"
 // };
-
-// module.exports = myuser;
+// module.exports = user;
 
 // var user = {
 //     fname: "John",
@@ -17,10 +16,7 @@ module.exports = {
 //         return 25;
 //     }
 // };
-
 // module.exports = user;
-
-
 
 // class myuser 
 // {

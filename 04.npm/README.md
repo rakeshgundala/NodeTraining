@@ -16,13 +16,23 @@ The best way to manage locally installed npm packages is to create a package.jso
 - allows versions of a package using semantic versioning rules.
 - makes your build reproducible, easy sharing.
 
-> Every dependent package would have a package.json, inside, as your project depndencies can have their own dependencies.
-> npm install might not installed nested dependencies.
+> Note: Every dependent package would have a package.json, inside, as your project depndencies can have their own dependencies.
+
+> Note: npm install might not installed nested dependencies.
 
 ### commenly used npm commands
 
 > npm init
+
 > npm i < package name> -g
+
 > npm i < package name > [--save|--save-dev]
+
 > npm update -g
+
 > npm update
+
+### Packages to be installed
+
+> npm install express / npm install express@latest
+
